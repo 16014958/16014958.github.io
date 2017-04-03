@@ -1,0 +1,22 @@
+body {
+
+  background-color: black;
+  opacity: 0.98;
+}
+
+.nav {
+max-width: 2000px;
+font-family:'Playfair Display', serif;
+height: 50px;
+font-style: italic;
+color: white;
+opacity: 0.9;
+padding: 20px 0;
+font-size: 1.1rem;
+}
+
+.nav a {
+  text-decoration: none;
+  padding-left: 70px;
+  padding right: 70px;
+}

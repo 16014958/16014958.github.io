@@ -1,0 +1,425 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400i');
+
+
+body {
+    background: linear-gradient(132deg, #200202, #082642);
+    background-size: 200% 200%;
+
+}
+
+
+.hover{
+   font-size: 100%; transition: 1s;
+}
+
+.hover:hover{
+  font-size: 110%;
+}
+
+
+
+
+.nav{
+max-width: 2000px;
+font-family:'Playfair Display', serif;
+height: 50px;
+font-style: italic;
+color: white;
+opacity: 0.9;
+padding: 20px 0;
+-webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
+   -moz-animation: fadein 4s; /* Firefox < 16 */
+    -ms-animation: fadein 4s; /* Internet Explorer */
+     -o-animation: fadein 4s; /* Opera < 12.1 */
+        animation: fadein 4s;
+}
+
+@keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.nav a {
+  text-decoration: none;
+  padding-left: 70px;
+  padding right: 70px;
+  color: white;
+font-family:'Playfair Display', serif;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+
+.name{
+  color: white;
+font-family: 'Playfair Display',serif;
+margin-left: auto;
+margin-right: auto;
+max-width: 500px;
+padding-top: 400px;
+font-size: 3rem;
+padding-left: 50px;
+font-weight: lighter;
+opacity: 0.8;
+
+
+
+    -webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 3s; /* Firefox < 16 */
+        -ms-animation: fadein 3s; /* Internet Explorer */
+         -o-animation: fadein 3s; /* Opera < 12.1 */
+            animation: fadein 3s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+
+
+.portfolio{
+  color: white;
+  font-family:'Playfair Display',serif;
+  font-size: 1.3rem;
+  margin-left: auto;
+margin-right: auto;
+max-width: 140px;
+font-weight: lighter;
+opacity: 0.8;
+padding-left: 20px;
+-webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
+   -moz-animation: fadein 4s; /* Firefox < 16 */
+    -ms-animation: fadein 4s; /* Internet Explorer */
+     -o-animation: fadein 4s; /* Opera < 12.1 */
+        animation: fadein 4s;
+}
+
+@keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+
+.titletext
+{
+border-top: red;
+color: white;
+font-family: 'Playfair Display', serif;
+width: 400px;
+margin-left: auto;
+margin-right: auto;
+padding-left: 160px;
+font-size: 0.9rem;
+opacity: 0.9;
+
+    -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 4s; /* Firefox < 16 */
+        -ms-animation: fadein 4s; /* Internet Explorer */
+         -o-animation: fadein 4s; /* Opera < 12.1 */
+            animation: fadein 4s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+
+
+.portfolio{
+  color: white;
+  font-family:'Playfair Display',serif;
+  font-size: 1.3rem;
+  margin-left: auto;
+margin-right: auto;
+max-width: 140px;
+font-weight: lighter;
+opacity: 0.8;
+padding-left: 20px;
+-webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
+   -moz-animation: fadein 4s; /* Firefox < 16 */
+    -ms-animation: fadein 4s; /* Internet Explorer */
+     -o-animation: fadein 4s; /* Opera < 12.1 */
+        animation: fadein 4s;
+}
+
+@keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+from { opacity: 0; }
+to   { opacity: 1; }
+}
+
+
+
+.mainbody
+{
+  height: 4000px;
+  background-color: white;
+  margin-top: 120px;
+}
+
+
+.about {
+  width: 160px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Playfair Display", serif;
+  padding-top: 50px;
+font-size: 2rem;
+font-style: underline;
+color: black;
+}
+
+.aboutme {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Playfair Display", serif;
+  font-weight: lighter;
+  font-size: 0.9rem;
+  opacity: 0.8;
+  padding-top: 10px;
+  text-align: center;
+
+}
+
+}
+
+
+.aboutme2 {
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Playfair Display", serif;
+  font-weight: lighter;
+  font-size: 0.9rem;
+  opacity: 0.8;
+
+}
+
+.ADP
+{
+  width: 900px;
+  font-family: "Playfair Display", serif;
+margin-left: auto;
+margin-right: auto;
+padding-top: 150px;
+padding-right: 120px;
+height: 100px;
+transform-style: preserve-3d;
+transform: perspective(800px);
+
+
+
+}
+
+
+
+
+.ADP a {
+  text-decoration: none;
+  padding-left: 200px;
+  padding right: 200px;
+  color: black;
+
+
+
+}
+
+
+
+.allwork{
+width: 100px;
+margin-left: auto;
+margin-right: auto;
+font-family: "Playfair Display" , serif;
+padding-top: 100px;
+
+}
+
+
+.bodystyle {
+  max-width: 2000px;
+
+}
+
+.img
+{
+margin-left: auto;
+margin-right: auto;
+max-width: 1200px;
+  padding-top: 100px;
+  padding-left: 200px;
+  -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+     -moz-animation: fadein 2s; /* Firefox < 16 */
+      -ms-animation: fadein 2s; /* Internet Explorer */
+       -o-animation: fadein 2s; /* Opera < 12.1 */
+          animation: fadein 2s;
+  }
+
+
+
+  @keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+  }
+
+  /* Firefox < 16 */
+  @-moz-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+  }
+
+  /* Safari, Chrome and Opera > 12.1 */
+  @-webkit-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+  }
+
+  /* Internet Explorer */
+  @-ms-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+  }
+
+  /* Opera < 12.1 */
+  @-o-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+  }
+
+
+
+
+.img1:hover {opacity: 0.7;}

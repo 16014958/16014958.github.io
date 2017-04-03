@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(132deg, black, #3d1313, #0b64b7 );
+    background-size: 400% 400%;
+    animation: BackgroundGradient 30s ease infinite;
+    height: 900px;
+}
+
+@keyframes BackgroundGradient {
+    0% {background-position: 0% 50%;}
+    50% {background-position: 100% 50%;}
+    100% {background-position: 0% 50%;}
+
+}
