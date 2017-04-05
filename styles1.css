@@ -84,6 +84,13 @@ font-family:'Playfair Display', serif;
 
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 
+.imageofme{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 620px;
+  padding-top: 50px;
+
+}
 
 .name{
   color: white;
@@ -91,7 +98,7 @@ font-family: 'Playfair Display',serif;
 margin-left: auto;
 margin-right: auto;
 max-width: 500px;
-padding-top: 400px;
+padding-top: 100px;
 font-size: 3rem;
 padding-left: 50px;
 font-weight: lighter;
